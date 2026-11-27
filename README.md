@@ -8,4 +8,4 @@ Hi! My name is Lovensky and I am a fullstack developer and also interested in cy
 * Typescript (tsx)
 
 # website
-learn more about --> [lovensky](https://lovensky.lol)
+learn more about --> [lovensky](https://lovensky.lol) (working on it rn)
