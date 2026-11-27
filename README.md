@@ -2,7 +2,7 @@
 Hi! My name is Lovensky and I am a fullstack developer and also interested in cybersecurity and app development. I like to program mostly in Javascript and React.
 
 # Languages:
-HTML 
-CSS
-Javascript
-Typescript
+* HTML
+* CSS (doesn't count?)
+* Javascript
+* Typescript (tsx)
